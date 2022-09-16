@@ -1,16 +1,16 @@
 {
   "private": true,
-  "displayName": "Plugin Name",
-  "name": "homebridge-plugin-name",
+  "displayName": "BTDS Shelly TRV",
+  "name": "homebridge-btds-shelly-trv",
   "version": "1.0.0",
-  "description": "A short description about what your plugin does.",
+  "description": "Steuert Shelly TRV",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "git://github.com/USERNAME/GITHUB_PROJECT_NAME.git"
+    "url": "https://github.com/BernardTeske/homebridge-plugin-template.git"
   },
   "bugs": {
-    "url": "https://github.com/USERNAME/GITHUB_PROJECT_NAME/issues"
+    "url": "https://github.com/BernardTeske/homebridge-plugin-template/issues"
   },
   "engines": {
     "node": ">=14.18.1",
